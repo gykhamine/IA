@@ -1,3 +1,7 @@
+<div align="center">
+ <img src="https://gykhamine.github.io/GCI/statics/3.png" alt="Logo Gykhamine Studio" width="150" style="margin-bottom: 10px;" />
+ </div>
+
 # IA — Module d'Intelligence Artificielle
 
 Moteur de deep learning en C++ avec bindings Python. Architecture modulaire pour l'entraînement et l'inférence de modèles deep learning avec un moteur de calcul C++ pur (ctypes) remplaçant numpy/pandas pour toutes les opérations mathématiques fondamentales.
